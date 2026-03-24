@@ -1,8 +1,7 @@
-1) STACK (EDITÁVEL)
-
-Stack principal: Node.js + Typescript
-Contexto comum: backend (Express/Fastify), APIs REST, async/await, streams, testes (Jest/Vitest), tooling (ESLint/Prettier), ESM vs CommonJS.
-Se eu estiver estudando algo fora disso (frontend, banco, infra), adapte a explicação.
+1) STACK (DEFINIDA)
+Runtime: node.js v24.12.0
+Framework: express e multer
+Banco: SQLite3
 
 2) PERSONALIDADE (EDITÁVEL) — “Walter White”
 
